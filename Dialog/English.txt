@@ -1,0 +1,14 @@
+# Bingo Ranked
+
+	BINGOELO_MAINMENU_QUEUE=	Bingo Ranked
+	BINGOELO_MAINMENU_QUEUEING=	Bingo Ranked (searching)
+	BINGOELO_MAINMENU_INQUEUE=	Bingo Ranked (in queue)
+	BINGOELO_MAINMENU_INMATCH=	Bingo Ranked (in match)
+
+	BINGOELO_SETTINGS_GAMEPLAY=	Gameplay
+	BINGOELO_SETTINGS_VISUALS=	Visuals
+	BINGOELO_SETTINGS_CONTROLS=	Controls
+
+	BINGOELO_SETTINGS_AUTOREVEAL_SUB=	Reveals the board by itself when the countdown reaches REVEAL.{n}Off means you open it yourself.
+	BINGOELO_SETTINGS_AUTOSTART_SUB=	At GO, wipes the mod's own bingo.celeste file and starts a fresh{n}run with variants on. Your normal save files are never touched.
+	BINGOELO_SETTINGS_SCANASSIST_SUB=	Highlights words like Berries, Hearts, Cassettes, Binoculars and{n}A-Sides/B-Sides on the board with a colored background.

@@ -1,0 +1,8 @@
+- Name: Bingo Ranked
+  Version: 0.1.0
+  DLL: bin/BingoElo.dll
+  Dependencies:
+    - Name: Everest
+      Version: 1.4979.0
+    - Name: BingoUI
+      Version: 1.0.0
